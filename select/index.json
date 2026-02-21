@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Go With The Flow（feat. Kohjiya）",
+  "base_artist": "MC TYSON",
+  "createdAt": "2026-02-21T16:09:00.942788Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Go With The Flow (feat. Kohjiya)",
+      "artist": "MC TYSON",
+      "has_synced": false,
+      "path": "select/01_Go_With_The_Flow_(feat._Kohjiya)_MC_TYSON.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Go With The Flow (Feat. Sci.Fly) (Original 12\" Version)",
+      "artist": "MF DOOM",
+      "has_synced": false,
+      "path": "select/02_Go_With_The_Flow_(Feat._Sci.Fly)_(Original_12__Version)_MF_DOOM.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Go With The Flow Feat. Sci.Fly (Original 12\" Version)",
+      "artist": "MF DOOM",
+      "has_synced": false,
+      "path": "select/03_Go_With_The_Flow_Feat._Sci.Fly_(Original_12__Version)_MF_DOOM.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Go With The Flow (feat. Kohjiya)",
+      "artist": "MC TYSON",
+      "has_synced": false,
+      "path": "select/pl_01_Go_With_The_Flow_(feat._Kohjiya)_MC_TYSON.txt"
+    }
+  ]
+}
